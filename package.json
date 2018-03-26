@@ -1,0 +1,17 @@
+{
+  "name": "teste-api",
+  "version": "0.0.1",
+  "main": "skacth.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
